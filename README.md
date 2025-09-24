@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @Cato2532
-- 👀 I’m interested in analytics
-- 🌱 I’m currently learning programming languages and play Counter-Strike 2
-- 💞️ I’m looking to collaborate on with people who are also interested in analytics... and maybe like Counter-Strike 2
-- 📫 You can find me here, I'm going to scrutinize a lot of materials here, so it's not fast I guess
-- ⚡ Fun fact: I can't joke
+# Привет! Я Алина — Product/Data Analyst
 
-I hope I haven't done mistakes while typing the text, don't judge me a lot please.
-<!---
-Cato2532/Cato2532 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 3+ года в аналитике данных (ЦБ РФ, финтех, автоматизация расчётов и витрин).
+- Делаю: data pipelines (ETL), продуктовые/финансовые метрики, прогнозирование, дашборды.
+- Инструменты: **Python (pandas, numpy, matplotlib)**, **SQL (Impala, PostgreSQL)**, **Jupyter, Tableau, Excel**.
+
+## Пэт-проекты и репозитории
+- 🔮 **Default Risk Forecast** — прогноз риска дефолтов на 12м (фичи, регрессия, валидация).
+- 📈 **Yield Curves Automation** — автоматизация построения кривых доходности и сценарии «what-if».
+- 🏦 **Bank Liquidity Mart** — витрина + отчёты по ликвидности (ежедневные срезы).
+- 📊 **Bond Calculator** — YTM, дюрация, полная цена (в т.ч. флоатеры).
+
+> В каждом репо: краткий README, структура данных, скрипты, ноутбук с примером, результаты.
+
+## Как со мной связаться
+[LinkedIn](https://www.linkedin.com/in/alina-gadisova-53329a37a/) • [Email](alinagadisova@mail.ru)
+
+---
+_Открыта к предложениям в Product Analytics / Data Analytics / FinTech._

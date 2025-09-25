@@ -1,19 +1,19 @@
-# Привет! Я Алина — Product/Data Analyst
+# Hi! I’m Alina — Product/Data Analyst  
 
-- 3+ года в аналитике данных (ЦБ РФ, финтех, автоматизация расчётов и витрин).
-- Делаю: data pipelines (ETL), продуктовые/финансовые метрики, прогнозирование, дашборды.
-- Инструменты: **Python (pandas, numpy, matplotlib)**, **SQL (Impala, PostgreSQL)**, **Jupyter, Tableau, Excel**.
+- 3+ years in data analytics (Central Bank of Russia, FinTech, reporting & data mart automation).  
+- I work on: data pipelines (ETL), product/financial metrics, forecasting, dashboards.  
+- Tools: **Python (pandas, NumPy, matplotlib)**, **SQL (Impala, PostgreSQL)**, **Jupyter, Tableau, Excel**.  
 
-## Пэт-проекты и репозитории
-- 🔮 **Default Risk Forecast** — прогноз риска дефолтов на 12м (фичи, регрессия, валидация).
-- 📈 **Yield Curves Automation** — автоматизация построения кривых доходности и сценарии «what-if».
-- 🏦 **Bank Liquidity Mart** — витрина + отчёты по ликвидности (ежедневные срезы).
-- 📊 **Bond Calculator** — YTM, дюрация, полная цена (в т.ч. флоатеры).
+## Pet Projects & Repositories  
+- 🔮 **Default Risk Forecast** — default risk prediction (12-month horizon) with feature engineering, regression, validation.  
+- 📈 **Yield Curves Automation** — automated yield curve construction with “what-if” scenario analysis.  
+- 🏦 **Bank Liquidity Mart** — data mart & reporting on bank liquidity (daily snapshots).  
+- 📊 **Bond Calculator** — YTM, duration, dirty price (incl. floaters).  
 
-> В каждом репо: краткий README, структура данных, скрипты, ноутбук с примером, результаты.
+> Each repo includes: a short README, data structure, scripts, a Jupyter notebook example, and results.  
 
-## Как со мной связаться
-[LinkedIn](https://www.linkedin.com/in/alina-gadisova-53329a37a/) • [Email](alinagadisova@mail.ru)
+## How to Reach Me  
+[LinkedIn](https://www.linkedin.com/in/alina-gadisova-53329a37a/) • [Email](mailto:alinagadisova@mail.ru)  
 
----
-_Открыта к предложениям в Product Analytics / Data Analytics / FinTech._
+---  
+_Open to opportunities in Product Analytics / Data Analytics / FinTech._ 

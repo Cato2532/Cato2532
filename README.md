@@ -13,7 +13,7 @@
 > Each repo includes: a short README, data structure, scripts, a Jupyter notebook example, and results.  
 
 ## How to Reach Me  
-[LinkedIn](https://www.linkedin.com/in/alina-gadisova-53329a37a/) • [Email](mailto:alinagadisova@mail.ru)  
+no way  
 
 ---  
 _Open to opportunities in Product Analytics / Data Analytics / FinTech._ 

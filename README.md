@@ -1,4 +1,4 @@
-# Hi! I’m Alina — Product/Data Analyst  
+# Hi! I’m Cato — Product/Data Analyst  
 
 - 3+ years in data analytics (Central Bank of Russia, FinTech, reporting & data mart automation).  
 - I work on: data pipelines (ETL), product/financial metrics, forecasting, dashboards.  

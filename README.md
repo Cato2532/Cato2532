@@ -13,7 +13,7 @@
 > Each repo includes: a short README, data structure, scripts, a Jupyter notebook example, and results.  
 
 ## How to Reach Me  
-no way  
+tg: https://t.me/snakeprocs  
 
 ---  
 _Open to opportunities in Product Analytics / Data Analytics / FinTech._ 
